@@ -1,6 +1,37 @@
-body{
-    background: yellow;
-    color: red;
-    font-size: 20px;
-    font-weight: lighter
+.main{
+    text-align:center; /*this line is used to make every element in body center alligned*/
+    display: block;
+    margin-top: 100px;
+
+}
+.logo{
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right:auto;
+    width: 300px;
+}
+.text{
+    display: block;
+    width: 500px;
+    border: 1px solid dee1e5;
+    border-radius: 24px;
+    line-height: 24px;
+    margin-top:10px;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:16px;
+    padding-right:16px;
+}
+.btn{
+    margin-top: 30px;
+    font-size: 14px;
+    background: dfe1e5;
+    border:none;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+
 }
